@@ -1,4 +1,4 @@
-# java-cli-maven-forked-mongo-templ-generics-JAdventure
+# java-web-maven-spring-forked-mongo-templ-generics-JAdventure
 
 ## Description
 A POC for REST web service using mongodb.
@@ -21,6 +21,7 @@ needed by Service and Repository layers.
 - java
 - maven
   - mongo connector
+  - spring
 - mongo
 
 ## Docker stack
